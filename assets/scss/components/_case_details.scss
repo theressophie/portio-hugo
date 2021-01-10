@@ -84,11 +84,10 @@
   &-thumb {
     border-radius: 30px;
     overflow: hidden;
-    img {
-      height: 100%;
+  }
+  img {
       max-width: 100%;
       border-radius: 20px;
-    }
   }
   &-nav {
     .previous,
